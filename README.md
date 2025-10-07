@@ -1,8 +1,8 @@
-# Hello! I'm [Your Name] 👋
+# Hello! I'm Mark Anton Rivera 👋
 
 ---
 
-## 📊 Business Intelligence Analyst | Data-Driven Problem-Solver
+##  Business Intelligence Analyst | Data-Driven Problem-Solver
 
 I'm a **curious and strategic problem-solver** making the pivot to the tech field with a clear focus on **Business Intelligence**. My background in **customer service** has given me crucial communication and empathy skills, which I now use to better understand business needs and translate them into actionable **data insights**.
 
@@ -10,16 +10,16 @@ I'm fascinated by how **data** shapes organizational strategy and am driven to h
 
 ---
 
-## 🛠️ My BI Toolkit
+##  My BI Toolkit
 
 * **SQL:** Advanced querying, stored procedures, database design
 * **Data Visualization:** Tableau, Power BI
-* **Programming:** Python (Pandas, NumPy)
+* **Programming:** Python (Basic)
 * **Key Concepts:** Data Modeling, A/B Testing, Reporting Automation.
 
 ---
 
-## 🌐 Collaboration & Opportunities
+##  Collaboration & Opportunities
 
 I'm actively seeking to contribute to **outsourcing and open-source projects** to expand my hands-on experience and apply my BI skills in real-world environments.
 
@@ -27,7 +27,7 @@ I'm actively seeking to contribute to **outsourcing and open-source projects** t
 
 ---
 
-## 🔮 Fun Facts
+##  Fun Facts
 
 * I'm a pretty good mixologist and I have a great matcha latte recipe
 * I love going to any types of festivals
@@ -36,7 +36,7 @@ I'm actively seeking to contribute to **outsourcing and open-source projects** t
 
 ---
 
-## 🔗 Let's Connect
+##  Let's Connect!
 
 | Resource | Link |
 | :--- | :--- |
