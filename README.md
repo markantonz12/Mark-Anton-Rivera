@@ -41,5 +41,5 @@ I'm actively seeking to contribute to **outsourcing and open-source projects** t
 | Resource | Link |
 | :--- | :--- |
 | **Portfolio** | [Link to your Portfolio/Projects] |
-| **LinkedIn** | [Link to your LinkedIn Profile] |
-| **Resume** | [Link to your Resume] |
+| **LinkedIn** | https://www.linkedin.com/in/mark-anton-rivera/ |
+| **Resume** | https://docs.google.com/document/d/1Rw8EhXycZMaRgAd12wHb0H1XQaQZwhbwYrFuuTMBTQ0/edit?usp=drive_link |
